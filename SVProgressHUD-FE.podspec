@@ -2,7 +2,6 @@ Pod::Spec.new do |s|
   s.name     = 'SVProgressHUD-FE'
   s.version  = '2.0.1'
   s.ios.deployment_target = '6.1'
-  s.tvos.deployment_target = '9.0'
   s.license  = 'MIT'
   s.summary  = 'fork的SVProgressHUD，自己加了一些方法'
   s.homepage = 'https://github.com/wzf/SVProgressHUD-FE'
